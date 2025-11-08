@@ -42,6 +42,9 @@ Primeira entrega (Sprint 1), com feedback do cliente para melhor execução do p
 
 #Sprint 2
 
+
+
+
 1. Extração e tratamento de dados:
 
 Gráficos foram extraídos do Comex Stat, tratados no Sublime Text com Python e organizados pelo SH2 para estruturar o Dashboard.
