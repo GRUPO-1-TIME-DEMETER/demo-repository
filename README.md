@@ -1,6 +1,6 @@
 # Sprint-1
 Desenvolvimento de um portal online para análise de dados da cadeia alimentícia do Vale do Paraíba. Foram criados o Backlog, Dashboard, 5W2H, fluxograma, gráfico de Gantt e apresentações por sprints, com melhorias implementadas após o feedback do cliente.
-
+<img width="1099" height="616" alt="Captura de tela 2025-11-07 222126" src="https://github.com/user-attachments/assets/163b521b-b4db-44bd-be89-af3bed6dd9b8" />
 
 1. Início do Projeto:
 Apresentação do cliente e do Parque Tecnológico; definição da cadeia produtiva alimentícia como foco do projeto.
@@ -28,4 +28,7 @@ Desenvolvimento do 5W2H e do gráfico de Gantt para controldas atividades e praz
 
 7. Apresentação ao Cliente:
 Primeira entrega (Sprint 1), com feedback do cliente para melhor execução do projeto.
+
+#Sprint 2
+
 
