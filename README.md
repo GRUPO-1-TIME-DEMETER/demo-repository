@@ -38,6 +38,8 @@ Desenvolvimento do 5W2H e do gráfico de Gantt para controldas atividades e praz
 Primeira entrega (Sprint 1), com feedback do cliente para melhor execução do projeto.
 
 
+
+
 #Sprint 2
 
 1. Extração e tratamento de dados:
