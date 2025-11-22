@@ -12,3 +12,14 @@ Desenvolvimento de um portal online para análise de dados da cadeia alimentíci
 
 ## Gantt
 <img width="1090" height="608" alt="image" src="https://github.com/user-attachments/assets/3bd08a4f-ccee-488c-9d35-41a9e279be54" />
+
+# Sprint 2
+
+## Dashboard
+<img width="1170" height="715" alt="image" src="https://github.com/user-attachments/assets/51f5d587-0a4b-4d9e-accc-29e4af7c869a" />
+
+<img width="1170" height="749" alt="image" src="https://github.com/user-attachments/assets/32a9753c-76fa-4f73-a2b0-7eaa0bf968f1" />
+
+<img width="1170" height="756" alt="image" src="https://github.com/user-attachments/assets/2fc24612-1b6f-4a35-b63d-462b5788d6ca" />
+
+<img width="1170" height="711" alt="image" src="https://github.com/user-attachments/assets/3acbbdb1-6e0c-429c-b354-80d212d10bf0" />
