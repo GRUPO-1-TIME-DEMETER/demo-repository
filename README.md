@@ -5,7 +5,7 @@ Desenvolvimento de um portal online para análise de dados da cadeia alimentíci
 ![image](https://github.com/user-attachments/assets/98f62148-25d6-476e-94df-a0d7cf936fc1)
 
 ## Backlog
-<img width="1099" height="616" alt="Captura de tela 2025-11-07 222126" src="https://github.com/user-attachments/assets/163b521b-b4db-44bd-be89-af3bed6dd9b8" />
+<img width="994" height="577" alt="image" src="https://github.com/user-attachments/assets/a78cd386-24cd-4d24-a2f8-a158247e74f0" />
 
 ## Dashboard
 <img width="1098" height="619" alt="image" src="https://github.com/user-attachments/assets/d1627dfc-4b26-4898-ab12-564af82d91ca" />
