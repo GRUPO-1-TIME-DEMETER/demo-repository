@@ -32,10 +32,10 @@ Desenvolvimento de um portal online para análise de dados da cadeia alimentíci
 
 # Sprint 3
 
-## Dados
-![image](https://github.com/user-attachments/assets/0a54f0ba-600f-4a3f-8a9d-47fc368897af)
-
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/39190933-739d-4688-aace-cee5343ed3d8)
 
 ![image](https://github.com/user-attachments/assets/3e95036a-c75b-42ff-aa65-a00cb3073e53)
+
+## Dados
+![image](https://github.com/user-attachments/assets/0a54f0ba-600f-4a3f-8a9d-47fc368897af)
