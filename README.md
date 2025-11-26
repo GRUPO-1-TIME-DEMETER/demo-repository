@@ -52,11 +52,13 @@ Após o tratamento inicial, os dados de importações e exportações foram cons
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                   | 12h          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Média      | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                              | 5          | 2      |
-| 4    | Alta       | ...                                                                                                                                                     | ...        | ...    |
-| 5    | Alta       | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes    | 2          | 3      |
-| 6    | Alta       | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes    | 2          | 3      |
-| 7    | Média      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes    | 2          | 3      |
-| 8    | Alta       | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes    | 2          | 3      |
+| 1    | Alta       |Como gestor público, quero visualizar um protótipo do painel analítico da região, para entender quais indicadores de comércio serão monitorados.         |    12h     |    1   |
+| 2    | Alta       |Como gestor público, quero ver representações gráficas dos principais indicadores de exportação e importação, para ter uma visão inicial do comportamento comercial da região.|    10h     |    1   |
+| 3    | Média      |                                                                                                                                                         |     6h     |    1   |
+| 4    | Alta       |                                                                                                                                                         |    10h     |    2   |
+| 5    | Alta       |                                                                                                                                                         |     8h     |    2   |
+| 6    | Alta       |                                                                                                                                                         |     8h     |    2   |
+| 7    | Média      |                                                                                                                                                         |     6h     |    2   |
+| 8    | Alta       |                                                                                                                                                         |    12h     |    3   |
+| 9    | Alta       |                                                                                                                                                         |     8h     |    3   |
+| 10   | Média      |                                                                                                                                                         |    10h     |    3   |
