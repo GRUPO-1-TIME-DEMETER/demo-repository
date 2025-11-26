@@ -45,3 +45,15 @@ Os dados foram extraídos da plataforma Comex Stat e tratados utilizando a lingu
 ## Dados
 ![image](https://github.com/user-attachments/assets/0a54f0ba-600f-4a3f-8a9d-47fc368897af)
 Após o tratamento inicial, os dados de importações e exportações foram consolidados e padronizados em arquivos finais no formato CSV. Os produtos foram filtrados de acordo com os códigos SH4 presentes na tabela oficial, respeitando as regras específicas para importações (excluindo os grupos indesejados) e agrupando os produtos nas exportações conforme seus grupos alimentares. Os nomes dos países e dos municípios foram devidamente convertidos para facilitar a interpretação e análise, e colunas desnecessárias foram removidas para manter apenas informações relevantes. Com isso, os arquivos finais estão prontos para serem carregados no Power BI, permitindo visualizações claras, consistentes e alinhadas ao objetivo do projeto.
+
+
+
+# Product Backlog
+
+| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
+|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
+| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                   | 5          | 1      |
+| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
+| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                              | 5          | 2      |
+| 4    | Média      | ...                                                                                                                                                     | ...        | ...    |
+| 5    | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes    | 2          | 3      |
