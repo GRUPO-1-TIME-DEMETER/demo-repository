@@ -52,7 +52,7 @@ Após o tratamento inicial, os dados de importações e exportações foram cons
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                   | 5          | 1      |
+| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                   | 12h          | 1      |
 | 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
 | 3    | Média      | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                              | 5          | 2      |
 | 4    | Alta       | ...                                                                                                                                                     | ...        | ...    |
