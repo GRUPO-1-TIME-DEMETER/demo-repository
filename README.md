@@ -50,6 +50,13 @@ Após o tratamento inicial, os dados de importações e exportações foram cons
 
 Mapeamento do ecossistena regional industrial - Cadeia alimentícia
 
+# Índice
+* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Equipe](#Equipe)
+* [Backlog do produto](#Product-Backlog)
+* [Competências desenvolvidas](#competências-desenvolvidas)
+* [Registro das Sprints](#Registro-das-Sprints)
+
 
 # Product Backlog
 
