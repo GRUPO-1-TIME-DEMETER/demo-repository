@@ -46,6 +46,9 @@ Os dados foram extraídos da plataforma Comex Stat e tratados utilizando a lingu
 ![image](https://github.com/user-attachments/assets/0a54f0ba-600f-4a3f-8a9d-47fc368897af)
 Após o tratamento inicial, os dados de importações e exportações foram consolidados e padronizados em arquivos finais no formato CSV. Os produtos foram filtrados de acordo com os códigos SH4 presentes na tabela oficial, respeitando as regras específicas para importações (excluindo os grupos indesejados) e agrupando os produtos nas exportações conforme seus grupos alimentares. Os nomes dos países e dos municípios foram devidamente convertidos para facilitar a interpretação e análise, e colunas desnecessárias foram removidas para manter apenas informações relevantes. Com isso, os arquivos finais estão prontos para serem carregados no Power BI, permitindo visualizações claras, consistentes e alinhadas ao objetivo do projeto.
 
+# Aprendizado por Projeto Integrado (API) - Template
+
+Mapeamento do ecossistena regional industrial - Cadeia alimentícia
 
 
 # Product Backlog
