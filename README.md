@@ -24,7 +24,9 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |  Team Member  | Anna Caroline Pereira                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/annacarolp)   |
 
 # Objetivo do Projeto
-Nosso projeto consiste na criação de um portal que reunirá os dados de importação e exportação de produtos da cadeia alimentícia do Vale do Paraíba. A proposta foi idealizada e foi desenvolvida, com o objetivo de facilitar as pesquisas relacionadas ao tema e de agilizar futuras análises.
+O trabalho analisa as importações e exportações da cadeia alimentícia do Vale do Paraíba por meio de um portal criado para reunir dados estruturados e facilitar uma análise visual e ágil.
+
+O projeto foi desenvolvido em equipe, com cada integrante responsável por uma etapa, resultando em análises integradas. O foco principal foi a análise de dados, o domínio das ferramentas e a compreensão das motivações das transações comerciais e da estratégia do setor alimentício na região.
 
 ## Tecnologias Utilizadas
 
