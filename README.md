@@ -74,6 +74,15 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 # Objetivo do Projeto
 Nosso projeto consiste na criação de um portal que reunirá os dados de importação e exportação de preodutos da cadeia alimentícia do Vale do Paraíba. A proposta foi idealizada e foi desenvolvida, com o objetivo de facilitar as pesquisas relacionadas ao tema e de agilizar futuras análises.
 
+## Tecnologias Utilizadas
+
+* Jira Software
+* Power BI
+* Microsoft Excel
+* Slack
+* Python (Colab)
+* Mysql
+
 # Product Backlog
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
